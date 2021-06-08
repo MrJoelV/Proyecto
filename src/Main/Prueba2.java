@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Prueba2 {
     
     public static void main(String[] args){
-        System.out.println("Prueba 2: Intento de Raul");
+        System.out.println("Prueba 2: Intento de Alan");
     }
     
 }
