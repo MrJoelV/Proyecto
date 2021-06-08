@@ -4,15 +4,15 @@
  * and open the template in the editor.
  */
 package Main;
-import java.util.Scanner;
+
 /**
  *
  * @author PC
  */
-public class Prueba2 {
+public class Prueba3 {
     
     public static void main(String[] args){
-        System.out.println("Prueba 2: Intento de Raul");
+        System.out.println("Prueba 2: Intento de Alan");
     }
     
 }
